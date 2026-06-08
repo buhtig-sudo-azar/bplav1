@@ -4,3 +4,7 @@ dist
 .DS_Store
 .env
 *.log
+-e 
+# AI platform artifacts
+Caddyfile
+worklog.md
